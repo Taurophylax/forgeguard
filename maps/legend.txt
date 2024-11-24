@@ -1,0 +1,6 @@
+#: Wall or obstacle (impassable).
+.: Walkable path.
+T: Treasure or item location.
+E: Enemy location.
+P: Player's starting position (optional, if starting position is fixed in the game logic).
+N: NPC
